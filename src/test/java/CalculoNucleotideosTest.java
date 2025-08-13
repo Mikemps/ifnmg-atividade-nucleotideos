@@ -1,9 +1,10 @@
-/* 
-* projeto: Cálculo de Nucleotídeos - Testes Unitários
-* @author: emillysilva & micaelpereira
-* Esta classe implementa o método calculoDeNucleotideos, que
-* recebe como parâmetro uma sequência de DNA (string) e retorna um array de inteiros
-*/
+/*
+ * projeto: Cálculo de Nucleotídeos - Testes Unitários
+ * @author: emillysilva & micaelpereira
+ * Esta classe contém testes unitários para o método calculoDeNucleotideos
+ * da classe CalculoNucleotideos, verificando contagem, tratamento de erros
+ * e casos limites.
+ */
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

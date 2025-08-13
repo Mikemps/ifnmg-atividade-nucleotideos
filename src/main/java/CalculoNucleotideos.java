@@ -1,3 +1,11 @@
+/*
+ * projeto: Cálculo de Nucleotídeos - Testes Unitários
+ * @author: emillysilva & micaelpereira
+ * Esta classe implementa o método calculoDeNucleotideos, que recebe como
+ * parâmetro uma sequência de DNA (string) e retorna um array de inteiros 
+ * contendo a contagem de cada nucleotídeo
+ */ 
+
 public class CalculoNucleotideos {
 
     public int[] calculoDeNucleotideos(String sequenciaDna) {
